@@ -1,0 +1,7 @@
+lobby:
+  world: world
+  x: 0
+  y: 70
+  z: 0
+required-players: 2
+countdown-seconds: 10

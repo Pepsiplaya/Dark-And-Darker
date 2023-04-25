@@ -1,0 +1,11 @@
+name: DnD
+version: 1.0.0
+main: me.pepsiplaya.darkanddarker.DarkAndDarker
+api-version: 1.19
+commands:
+  selectclass:
+    description: Select a class for the game.
+    usage: /<command> [class]
+  dnd:
+    description: Execute the dungeon command.
+    usage: /<command> [arguments]
